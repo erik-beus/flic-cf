@@ -1,0 +1,8 @@
+node_modules/
+publish-auth.json
+test/test.http
+.vscode/
+.env.yaml
+dist/
+deploy.sh
+deploy-local.sh
